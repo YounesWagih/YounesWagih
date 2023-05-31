@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CS student
 ----------
 
-iam a CS student with a passion for learning and a love for challenges, I am currently focused on expanding my skills in back-end development. With a strong foundation in programming
+i am a CS student with a passion for learning and a love for challenges, I am currently focused on expanding my skills in back-end development. With a strong foundation in programming
 
 * 🌍  I'm based in cairo
 * ✉️  You can contact me at [youneswagih@gmail.com](mailto:youneswagih@gmail.com)
